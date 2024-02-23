@@ -1,7 +1,11 @@
 # Marker-Spinner
+Marker is a project for our physics teacher Mr. Manning. Mr. Miller was giving us ideas and we decided to go with the Marker spinner idea. 
 ## Table of contents
 *[Code progress](#Code-progress)
 *[CAD progress](#CAD-progress)
+
+[Smart Goal planning for Q2](https://docs.google.com/document/d/1IB1CjCF75Uy60dikSJuv_7jvlOusDMBG6paIRjbJVEI/edit?usp=sharing)
+
 
 ### Week 12 
 This week we decided to change our project. Our original project was an automatic chicken feeder, that would feed chickens automatically. Our new project is now a Marker Spinner for Mr. Manning(Physics Teacher). Considering that we just changed our project we haven't yet found a lot of resources or issues to be solved. What we have done this week is talk to Mr. Manning, create a design, and start on code. Next week we plan to meet with our mentor to get some ideas, start CAD, continue code, and do more research.

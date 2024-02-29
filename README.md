@@ -15,3 +15,19 @@ I worked on the code, while Hope worked on the prototype. We’re using 2 D.C mo
 
 ### Week 14 
 This week we finished up our prototype and met with our mentor Skye. We decided on two different ideas for the wheel of the marker spinner to spin. The first idea is to use an axle and have the wheel spin in the middle to balance the weight of the markers. The second idea is to have attachments to the DC motors and have them attached to the wheel. We discovered that the weight of the markers can impact the balance of the wheel so that's where our new ideas came from. Coming up with a solid design went ok and just getting our prototype to work was a bit difficult. Our plan for next week is to start CAD design, continue working on code, and maybe update our prototype.
+
+## February 
+
+### Week 1
+After our brainstorming and finally deciding on our project we started doing research based on our project. I started researching how to get a D.C motor working. By the end of the first week, I found some sources to get me started. 
+
+# Sources: 
+Graham and Malachi
+[Graham and Malachi Github](https://github.com/Graham913/G-Hog-mapper-notebook)
+[How to Use Your Raspberry Pi Pico With DC Motors](https://www.tomshardware.com/how-to/dc-motors-raspberry-pi-pico)
+This source kind of helped me know how to get started and I used their code to see if it was going to work, but it didn't. Later I found out that Graham and Malachi had already done their code for the D.C motor, so I asked if I could use their code and they said yes! I used their code and changed it a little bit and it worked!!!! YAYAYAYA. Best day!
+
+### Week 2
+### Week 3 
+### Week 4 
+### Week 5

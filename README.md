@@ -85,11 +85,20 @@ LCD wiring diagram with button
 
 D.C motor diagram with an H-bridge 
 
+![Screenshot 2024-03-04 8 23 30 AM](https://github.com/hgeorge82/Marker-Spinner/assets/71407017/7b80c871-0deb-448c-98e8-80fd1219adea)
+
+
+![Screenshot 2024-03-04 8 22 58 AM](https://github.com/hgeorge82/Marker-Spinner/assets/71407017/24187e51-03b6-4ed2-b589-4eece710834e)
+
+![Screenshot 2024-03-04 8 22 08 AM](https://github.com/hgeorge82/Marker-Spinner/assets/71407017/16d4d55c-cf32-4f70-9667-03d1823d2ec2)
+
 ## Week 5
 Mariam: I showed Mr. Manning the LCD and he was like add a countdown to it now. And I was are you serious?, so I did some research and found good sources, and added the countdown. After I was done I started to combine my code and my code was officially done! I thought I was done, but when I realized that I needed to shut down the whole system, and to do that I needed to divide the voltage between the Pico and the H-bridge driver. I had a lot of trouble with that. After trying for days I gave up. So I went to Mr. Manning and we tried to solve the problem, but we couldn't so we decided to go with 2 cables. So currently I am waiting for the cable to come so I can connect it. I will also need to commend my code and I will officially be done! 
 
 Hope: This week I worked on creating a better base for our marker spinner. Skye met with us and gave me some tips on how to make it easier. Instead of making separate parts for the legs and base, I combined them. It was a bit challenging because of the dimensions of our base but I figured it out. Next week I plan to 3D-print test brackets for our axle and finish up the base and start on the brackets for the markers
-!
+
+### Images
+
 
 ## Sources
 [Countdown for LCD](https://community.element14.com/challenges-projects/project14/7segmentdisplay/b/blog/posts/pi-pico-with-clock-display---showing-a-countdown-time)

@@ -28,6 +28,7 @@ The requirements are Pico, breadboard, LCD, H-bridge motor driver, plugs, 3D pri
 
 ## Week 1
 Mariam: After our brainstorming and finally deciding on our project we started doing research based on our project. I started researching how to get a D.C motor working. By the end of the first week, I found some sources to get me started. 
+
 Hope: This week we met with our UVA mentor Skye. She gave us a couple of ideas on how to go about our design. We had some problems with how to keep the axle from sliding and how to attach the DC motors to the axle. She gave us the idea to use rubber bushings or stoppers to keep everything in place. We bought a pretty cool switch that lights up when you flick it on.
 
 ## Sources: 
@@ -43,6 +44,7 @@ This source kind of helped me know how to get started and I used their code to s
 
 ## Week 2
 Mariam: Now that I was done with the D.C. motors I worked on adding a button. wiring a button wasn't hard, but coding it was. Just because I didn't know where to add the button code and how to connect it so that it worked with the D.C motor. and it took me a day or 2 to code-wire it and connect it to the Pico.
+
 Hope: This week I did more research on what would work to keep the axle in place. The rubber bushings were our first idea but we couldn’t find ones that fit what we were looking for. Our second idea was to use bearings instead, allowing the axle to move more freely and efficiently.
 
 
@@ -51,7 +53,8 @@ Mr. Miller
 Thanks to him he helped me code it by adding an if statement and understand how to code works and where to put
 
 ## Week 3 
-Hope: After I was done getting the button worked with the motors, I thought I was done, but I wasn't :/ Mr. Manning wanted an LCD now, I was like okay. I started doing research and I found some useful but not useful sources. Then I found out that Ellen was doing an LCD, so I went to her Github page and I noticed that her LCD code was different than what I was looking for. So I moved on and did some more research. I did research this whole week
+Mariam: After I was done getting the button worked with the motors, I thought I was done, but I wasn't :/ Mr. Manning wanted an LCD now, I was like okay. I started doing research and I found some useful but not useful sources. Then I found out that Ellen was doing an LCD, so I went to her Github page and I noticed that her LCD code was different than what I was looking for. So I moved on and did some more research. I did research this whole week
+
 Hope: This week I began to work on a way to attach the markers to the wheel itself. When Skye first came she gave us some ideas with marker grips. So I took that idea and tweaked it a bit. I came up with the idea of using
 ## Sources: 
 [gventre04 LCD Button](https://github.com/gventre04/CircuitPython/blob/master/lcd_button.py)
@@ -66,6 +69,7 @@ Their code was helpful to start me off and the wiring diagram they had was super
 
 ## Week 4 
 Mariam: This week Sky came and we talked to her about our process and she talked to me about how I can use a switch instead of an LCD, so I talked to Mr. Manning about it and he said NO and that he wants an LCD. He didn't want to let me go easy, so It took me another few days to code the LCD and I got it done!
+
 Hope: This week was just a week of designing. Nothing really changed or was difficult.
 
 ### Images
@@ -83,7 +87,9 @@ D.C motor diagram with an H-bridge
 
 ## Week 5
 Mariam: I showed Mr. Manning the LCD and he was like add a countdown to it now. And I was are you serious?, so I did some research and found good sources, and added the countdown. After I was done I started to combine my code and my code was officially done! I thought I was done, but when I realized that I needed to shut down the whole system, and to do that I needed to divide the voltage between the Pico and the H-bridge driver. I had a lot of trouble with that. After trying for days I gave up. So I went to Mr. Manning and we tried to solve the problem, but we couldn't so we decided to go with 2 cables. So currently I am waiting for the cable to come so I can connect it. I will also need to commend my code and I will officially be done! 
-Hope: This week I worked on creating a better base for our marker spinner. Skye met with us and gave me some tips on how to make it easier. Instead of making separate parts for the legs and base, I combined them. It was a bit challenging because of the dimensions of our base but I figured it out.
+
+Hope: This week I worked on creating a better base for our marker spinner. Skye met with us and gave me some tips on how to make it easier. Instead of making separate parts for the legs and base, I combined them. It was a bit challenging because of the dimensions of our base but I figured it out. Next week I plan to 3D-print test brackets for our axle and finish up the base and start on the brackets for the markers
+!
 
 ## Sources
 [Countdown for LCD](https://community.element14.com/challenges-projects/project14/7segmentdisplay/b/blog/posts/pi-pico-with-clock-display---showing-a-countdown-time)

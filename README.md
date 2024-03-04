@@ -68,9 +68,9 @@ Their code was helpful to start me off and the wiring diagram they had was super
 
 
 ## Week 4 
-Mariam: This week Sky came and we talked to her about our process and she talked to me about how I can use a switch instead of an LCD, so I talked to Mr. Manning about it and he said NO and that he wants an LCD. He didn't want to let me go easy, so It took me another few days to code the LCD and I got it done!
+Mariam: This week Sky came and we talked to her about our process and she talked to me about how I can use a switch instead of an LCD, so I talked to Mr. Manning about it and he said NO and that he wants an LCD. He didn't want to let me go easy, so It took me another few days to code the LCD and I got it done! 
 
-Hope: This week was just a week of designing. Nothing really changed or was difficult.
+Hope: This week I started our new base. This week I worked on creating a better base for our marker spinner. Skye met with us and gave me some tips on how to make it easier. Instead of making separate parts for the legs and base, I combined them. It was a bit challenging because of the dimensions of our base but I figured it out.
 
 ### Images
 ![LCD with pico](https://github.com/hgeorge82/Marker-Spinner/assets/71345399/0ec3f89e-0f75-4fde-89b8-b5c0b2212274)
@@ -95,7 +95,7 @@ D.C motor diagram with an H-bridge
 ## Week 5
 Mariam: I showed Mr. Manning the LCD and he was like add a countdown to it now. And I was are you serious?, so I did some research and found good sources, and added the countdown. After I was done I started to combine my code and my code was officially done! I thought I was done, but when I realized that I needed to shut down the whole system, and to do that I needed to divide the voltage between the Pico and the H-bridge driver. I had a lot of trouble with that. After trying for days I gave up. So I went to Mr. Manning and we tried to solve the problem, but we couldn't so we decided to go with 2 cables. So currently I am waiting for the cable to come so I can connect it. I will also need to commend my code and I will officially be done! 
 
-Hope: This week I worked on creating a better base for our marker spinner. Skye met with us and gave me some tips on how to make it easier. Instead of making separate parts for the legs and base, I combined them. It was a bit challenging because of the dimensions of our base but I figured it out. Next week I plan to 3D-print test brackets for our axle and finish up the base and start on the brackets for the markers
+Hope: This week I researched cables to buy for our project. I also finished up the box of our base and added the joints for it. I struggled a bit with adding the t-slots because the walls were not thick enough. Next week I plan to 3D-print test brackets for our axle finish up the base and start on the brackets for the markers
 
 ### Images
 

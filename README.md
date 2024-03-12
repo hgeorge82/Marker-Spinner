@@ -105,3 +105,11 @@ Hope: This week I researched cables to buy for our project. I also finished up t
 
 I used some of their code to code for the countdown
 
+# March
+
+## Week 1
+Mariam: I was waiting to arrive, I didn't do anything else
+
+## Weel 2
+Mariam: Today my switch came and I worked on it. I also started to draw 
+

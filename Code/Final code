@@ -81,7 +81,7 @@ while True:
     if button.value == True and motor_state == "off":       
         print("Motors on")
          # Calculate the total number of seconds
-        total_seconds = 10  # countdown seconds start
+        total_seconds = 30  # countdown seconds start
         motor_a.throttle=True 
         motor_b.throttle=True
         motor_state = "on"

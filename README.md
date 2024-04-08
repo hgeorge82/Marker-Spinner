@@ -109,7 +109,9 @@ I used some of their code to code for the countdown
 
 ## Week 1
 Mariam: I was waiting to arrive, I didn't do anything else
+Hope: This week I worked on designing the marker cap and base of our project. I came up with a problem, the cap was too loose and I had to go back and increase the size of the indents on the cap to keep it from slipping. The base has been a whole mess considering the t-slot joints have been a disaster to work with.
 
 ## Weel 2
 Mariam: Today my switch came and I worked on it. I also started to draw 
+Hope: 
 

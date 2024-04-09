@@ -28,15 +28,15 @@ interface = I2CPCF8574Interface(i2c, i2c_address)
 lcd = LCD(interface, num_rows=rows, num_cols=cols)
 
 
-lcd.set_cursor_pos(0, 0)   # Moves the cursor to the specified screen coordinates
+lcd.set_cursor_pos(0, 0)   # Moves the cursor to the specified screen coordinates :)
 
 
 DEBUG = False  # mode of operation; False = normal, True = debug
 OP_DURATION = 5  # operation duration in seconds
 drv8833_ain1 = PWMOut(board.GP16, frequency=50)
 drv8833_ain2 = PWMOut(board.GP17, frequency=50)   # Motor driver set ups
-drv8833_bin1 = PWMOut(board.GP15, frequency=50)
-drv8833_bin2 = PWMOut(board.GP14, frequency=50)
+drv8833_bin1 = PWMOut(board.GP14, frequency=50)
+drv8833_bin2 = PWMOut(board.GP15, frequency=50)
 drv8833_sleep = DigitalInOut(board.GP18)
 motor_a = Motor.DCMotor(drv8833_ain1, drv8833_ain2) # motor setups 
 motor_b = Motor.DCMotor(drv8833_bin1, drv8833_bin2)

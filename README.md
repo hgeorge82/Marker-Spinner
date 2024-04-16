@@ -1,3 +1,4 @@
+
 # Marker-Spinner
 Marker is a project for our physics teacher Mr. Manning. Mr. Miller was giving us ideas and we decided to go with the Marker spinner idea. 
 ## Table of contents
@@ -111,7 +112,54 @@ I used some of their code to code for the countdown
 Mariam: I was waiting to arrive, I didn't do anything else
 Hope: This week I worked on designing the marker cap and base of our project. I came up with a problem, the cap was too loose and I had to go back and increase the size of the indents on the cap to keep it from slipping. The base has been a whole mess considering the t-slot joints have been a disaster to work with.
 
-## Weel 2
-Mariam: Today my switch came and I worked on it. I also started to draw 
+## Week 2
+Mariam: Today my switch came and I worked on it. I also started to draw the wiring diagram. Hope and I realized that the switch is too big and we did not like it :(. It was also lowkey weird because it had three brack to solder which I was confused about and how I should solder, so Hope and I agreed that we would not be using this switch
+
+Here is the picture of the switch you can tell how big it is
+
+Here is our final wiring diagram 
+![our final wiring diagram](https://github.com/hgeorge82/Marker-Spinner/assets/71345399/3dc76762-3b5c-4b74-9ee2-777706a23a1f)
+
 Hope: 
+
+### Week 3
+Mariam: This week I started soldering and the first thing I soldered was the pico and the H-bridge on the board 
+
+Before soldering, I put everything on the board making sure it fits. At first, I thought we needed more space, but then I realized that this should be enough space since we don't need a lot of things
+
+I soldered everything on the board and I was happy the way it came out
+![everything on a green board ](https://github.com/hgeorge82/Marker-Spinner/assets/71345399/006c9d0e-b45a-48a8-be84-c232747f13b1)
+
+### Week 4
+
+Mariam: I started soldering the LCD to the pico and it was a pain. I struggled so much soldering this because when I soldered one wire the other one would come out because it was touching the tip of the solder. But I got it done on that week, so it took me that whole week to solder the LCD :
+![first week of soldering ](https://github.com/hgeorge82/Marker-Spinner/assets/71345399/6f22700c-4fba-477f-a33a-63ba097de3c9)
+
+## April
+
+### Week 1
+During spring break nothing happened 
+
+### Week 2
+Mariam: I came back to school on Monday and left on Tuesday for the rest of the week due to Eid (celebration after Ramadan) 
+
+### Week 3
+Mariam: Finally after I was  back I started working on soldering the motors and got it done that day :)
+
+The next day I started getting the button attacked and the other pins on the H-bridge and was done 
+
+Here is the picture of that week 
+![second week of soldering](https://github.com/hgeorge82/Marker-Spinner/assets/71345399/d5e8938b-9e9a-444c-960d-256e04c5bc72)
+
+Mariam: I finished the soldering and made sure everything was soldered good
+
+Here is everything soldered on the board 
+![final week of soldering](https://github.com/hgeorge82/Marker-Spinner/assets/71345399/dde2198a-9a52-4ff9-a421-6af8af1e31fb)
+
+Here is a closer picture of the final soldering
+![closer pic of soldering (final week)](https://github.com/hgeorge82/Marker-Spinner/assets/71345399/b2059e0d-7fc2-4ba0-a82b-3b6fef48b414)
+
+### Week 4
+
+Mariam: After I was done with soldering I thought I was done, but nope I was wrong. Right after I plugged them in, the LCD was turning on except for the motors. I was so frustrated and confused why it wasn't working because I remember soldering it correctly
 

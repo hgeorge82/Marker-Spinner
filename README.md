@@ -73,6 +73,7 @@ Mariam: This week Sky came and we talked to her about our process and she talked
 
 Hope: This week I started our new base. This week I worked on creating a better base for our marker spinner. Skye met with us and gave me some tips on how to make it easier. Instead of making separate parts for the legs and base, I combined them. It was a bit challenging because of the dimensions of our base but I figured it out.
 
+
 ### Images
 ![LCD with pico](https://github.com/hgeorge82/Marker-Spinner/assets/71345399/0ec3f89e-0f75-4fde-89b8-b5c0b2212274)
 
@@ -113,11 +114,12 @@ Mariam: I was waiting to arrive, I didn't do anything else
 Hope: This week I worked on designing the marker cap and base of our project. I came up with a problem, the cap was too loose and I had to go back and increase the size of the indents on the cap to keep it from slipping. The base has been a whole mess considering the t-slot joints have been a disaster to work with.
 
 ## Week 2
-Mariam: Today my switch came and I worked on it. I also started to draw the wiring diagram. Hope and I realized that the switch is too big and we did not like it :(. It was also lowkey weird because it had three brack to solder which I was confused about and how I should solder, so Hope and I agreed that we would not be using this switch
+Mariam: Today my switch came and I worked on it. I also started to draw the wiring diagram. Hope and I realized that the switch is too big and we did not like it :(. It was also lowkey weird because it had three bracks to solder which I was confused about and how I should solder, so Hope and I agreed that we would not be using this switch
 
 Here is the picture of the switch you can tell how big it is
 
 Here is our final wiring diagram 
+
 ![our final wiring diagram](https://github.com/hgeorge82/Marker-Spinner/assets/71345399/3dc76762-3b5c-4b74-9ee2-777706a23a1f)
 
 Hope: 
@@ -127,12 +129,14 @@ Mariam: This week I started soldering and the first thing I soldered was the pic
 
 Before soldering, I put everything on the board making sure it fits. At first, I thought we needed more space, but then I realized that this should be enough space since we don't need a lot of things
 
-I soldered everything on the board and I was happy the way it came out
+I soldered everything on the board and I was happy with the way it came out
+
 ![everything on a green board ](https://github.com/hgeorge82/Marker-Spinner/assets/71345399/006c9d0e-b45a-48a8-be84-c232747f13b1)
 
 ### Week 4
 
-Mariam: I started soldering the LCD to the pico and it was a pain. I struggled so much soldering this because when I soldered one wire the other one would come out because it was touching the tip of the solder. But I got it done on that week, so it took me that whole week to solder the LCD :
+Mariam: I started soldering the LCD to the pico and it was a pain. I struggled so much with soldering this because when I soldered one wire the other one would come out because it was touching the tip of the solder. But I got it done that week, so it took me that whole week to solder the LCD :
+
 ![first week of soldering ](https://github.com/hgeorge82/Marker-Spinner/assets/71345399/6f22700c-4fba-477f-a33a-63ba097de3c9)
 
 ## April
@@ -161,5 +165,17 @@ Here is a closer picture of the final soldering
 
 ### Week 4
 
-Mariam: After I was done with soldering I thought I was done, but nope I was wrong. Right after I plugged them in, the LCD was turning on except for the motors. I was so frustrated and confused why it wasn't working because I remember soldering it correctly
+Mariam: After I was done with soldering I thought I was done, but nope I was wrong. Right after I plugged them in, the LCD was turned on except for the motors. I was so frustrated and confused as to why it wasn't working because I remember soldering it correctly. So I had to go back and check my wiring. Everything was fine so I checked the code to see if the pins are matching to my pico and it sure did. I didn't know what else to do so I told Mr. Miller and he checked the motors with the Volta meter and they were fine. So he told me to check for any loose wires especially check the sleep and power wires. After checking them they looked fine, so he suggested I should put a little bit more solder on them and after doing that it worked. I was so happy and done at the same time :)
+
+
+This is the video where the LCD was working but not the motors
+
+https://github.com/hgeorge82/Marker-Spinner/assets/71345399/a88a7d7d-1b6f-4308-a69d-76ca53e322e4
+
+
+
+
+### Final Reflection
+Mariam: 
+Hope: 
 

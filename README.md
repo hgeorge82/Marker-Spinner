@@ -172,10 +172,16 @@ This is the video where the LCD was working but not the motors
 
 https://github.com/hgeorge82/Marker-Spinner/assets/71345399/a88a7d7d-1b6f-4308-a69d-76ca53e322e4
 
+Here is the video where the motors are working
+
+https://github.com/hgeorge82/Marker-Spinner/assets/71345399/43838e60-3d7b-4ede-95c9-f601ff6e053a
 
 
 
 ### Final Reflection
-Mariam: 
+Mariam: When I first started coding for this project I had no clue how to start it or where to start from. I started researching how the D.C motors work and I did find some useful resources, but they were not very helpful. Later I found out that Malchie and Gram had already started coding for the D.C motors, so I got their code and had to figure out how I wanted them to work for me and that was the challenging part cause I didn't know how I wanted the motors to work. After figuring that out I had to change only a few parts of the code with Mr. Millers' help. 
+
+
+
 Hope: 
 

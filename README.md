@@ -1,9 +1,6 @@
 
 # Marker-Spinner
 Marker is a project for our physics teacher Mr. Manning. Mr. Miller was giving us ideas and we decided to go with the Marker spinner idea. 
-## Table of contents
-*[Code progress](#Codeprogress)
-*[CAD progress](#CADprogress)
 
 [Smart Goal planning for Q2](https://docs.google.com/document/d/1IB1CjCF75Uy60dikSJuv_7jvlOusDMBG6paIRjbJVEI/edit?usp=sharing)
 
@@ -12,7 +9,7 @@ Marker is a project for our physics teacher Mr. Manning. Mr. Miller was giving u
 This week we decided to change our project. Our original project was an automatic chicken feeder, that would feed chickens automatically. Our new project is now a Marker Spinner for Mr. Manning(Physics Teacher). Considering that we just changed our project we haven't yet found a lot of resources or issues to be solved. What we have done this week is talk to Mr. Manning, create a design, and start on code. Next week we plan to meet with our mentor to get some ideas, start CAD, continue code, and do more research.
 
 ### Week 13
-I worked on the code, while Hope worked on the prototype. We’re using 2 D.C motors and might even need to buy faster ones. Credits to Graham and Malachi for giving us their Github page to use their code and that is the only new source that we found. We also found Dylan Hensley’s onshape about Mr. Manning’s marker spinner. With the code, I couldn’t get it to work in the beginning. Everything, we’re almost done with our prototype and the two D.C motors are working. Understanding the code and figuring out how we want our design to look like. Finish the prototype get Mr. Manning’s input about the motors and go on from there and have a meeting with Skye.
+I worked on the code, while Hope worked on the prototype. We’re using 2 D.C motors and might even need to buy faster ones. Credits to Graham and Malachi for giving us their Github page to use their code; that is the only new source we found. We also found Dylan Hensley’s onshape about Mr. Manning’s marker spinner. With the code, I couldn’t get it to work in the beginning. We’re almost done with our prototype, and the two D.C motors are working, understanding the code, and figuring out how we want our design to look. Finish the prototype get Mr. Manning’s input about the motors and go on from there and have a meeting with Skye.
 
 ### Week 14 
 This week we finished up our prototype and met with our mentor Skye. We decided on two different ideas for the wheel of the marker spinner to spin. The first idea is to use an axle and have the wheel spin in the middle to balance the weight of the markers. The second idea is to have attachments to the DC motors and have them attached to the wheel. We discovered that the weight of the markers can impact the balance of the wheel so that's where our new ideas came from. Coming up with a solid design went okay, and getting our prototype to work was a bit difficult. Our plan for next week is to start CAD design, continue working on code, and maybe update our prototype.
@@ -114,9 +111,7 @@ Mariam: I was waiting to arrive, I didn't do anything else
 Hope: This week I worked on designing the marker cap and base of our project. I came up with a problem, the cap was too loose and I had to go back and increase the size of the indents on the cap to keep it from slipping. The base has been a whole mess considering the t-slot joints have been a disaster to work with.
 
 ## Week 2
-Mariam: Today my switch came and I worked on it. I also started to draw the wiring diagram. Hope and I realized that the switch is too big and we did not like it :(. It was also lowkey weird because it had three bracks to solder which I was confused about and how I should solder, so Hope and I agreed that we would not be using this switch
-
-Here is the picture of the switch you can tell how big it is
+Mariam: Today my switch came and I worked on it. I also started to draw the wiring diagram. Hope and I realized that the switch is too big and we did not like it :(. It was lowkey weird because it had three bracks to solder which I was confused about and how I should solder, so Hope and I agreed that we would not be using this switch
 
 Here is our final wiring diagram 
 
@@ -179,7 +174,7 @@ https://github.com/hgeorge82/Marker-Spinner/assets/71345399/43838e60-3d7b-4ede-9
 
 
 ### Final Reflection
-Mariam: When I first started coding for this project I had no clue how to start it or where to start from. I started researching how the D.C motors work and I did find some useful resources, but they were not very helpful. Later I found out that Malchie and Gram had already started coding for the D.C motors, so I got their code and had to figure out how I wanted them to work for me and that was the challenging part cause I didn't know how I wanted the motors to work. After figuring that out I had to change only a few parts of the code with Mr. Millers' help. 
+Mariam: Doing a project for the first time where we have real customers is amazing. I never thought I could use my engineering skills to make something for someone else. When I first started coding for this project I had no clue how to start it or where to start from. I started researching how the D.C motors work and I did find some useful resources, but they were not very helpful. Later I found out that Graham and Malachi had already started coding for the D.C motors, so I got their code and had to figure out how I wanted it to work for me and that was the challenging part cause I didn't know how I wanted the motors to work. After figuring that out I had to change only a few parts of the code with Mr. Millers' help. Then I moved on to adding a button and an LCD. Coding was pretty challenging there were days when I was lost and didn't know what to do, but I always found my way back up with the help of Mr. Miller and Sky. Overall I had fun doing this my favorite part of this project was soldering because it just made me happy to see I am finally done and ready to wrap everything up. 
 
 
 

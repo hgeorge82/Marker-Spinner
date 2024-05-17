@@ -141,7 +141,7 @@ During spring break nothing happened
 
 ### Week 2
 Mariam: I came back to school on Monday and left on Tuesday for the rest of the week due to Eid (celebration after Ramadan) 
-
+Hope: This week I just worked on CAD. I had a few problems with getting thing 
 ### Week 3
 Mariam: Finally after I was  back I started working on soldering the motors and got it done that day :)
 
@@ -171,6 +171,16 @@ Here is the video where the motors are working
 
 https://github.com/hgeorge82/Marker-Spinner/assets/71345399/43838e60-3d7b-4ede-95c9-f601ff6e053a
 
+
+## May
+
+### Week 1
+Hope: This week I worked on adding finishing touches to the base of our project. It was a struggle because I had to remake the base again due to some complications, which was a bit challenging to work with but I got it done.  
+### Week 2
+Hope: This week I laser cut the pieces to our base. I began the assembly process as well. I also ran into some challenges with the assembly of our base. The problem was our acrylic parts kept breaking and the distance between the two motors was too short for the axle to fit, the axle was too long anyway so I just decided to cut it down. 
+### Week 3
+Both of us are now just working on the assembly and we have run into some problems again. Things are not fitting how they were in Onshape so that's an issue. Another is that some acrylic pieces may need some modification.
+### Week 4 
 
 
 ### Final Reflection

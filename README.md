@@ -172,19 +172,26 @@ Here is the video where the motors are working
 https://github.com/hgeorge82/Marker-Spinner/assets/71345399/43838e60-3d7b-4ede-95c9-f601ff6e053a
 
 
+
 ## May
 
 ### Week 1
 Hope: This week I worked on adding finishing touches to the base of our project. It was a struggle because I had to remake the base again due to some complications, which was a bit challenging to work with but I got it done.  
+Mariam: I made the presentation so we could present when the UVA students come
+
 ### Week 2
 Hope: This week I laser cut the pieces to our base. I began the assembly process as well. I also ran into some challenges with the assembly of our base. The problem was our acrylic parts kept breaking and the distance between the two motors was too short for the axle to fit, the axle was too long anyway so I just decided to cut it down. 
+Mariam: I still worked on the presentation and we presented it
+
 ### Week 3
 Both of us are now just working on the assembly and we have run into some problems again. Things are not fitting how they were in Onshape so that's an issue. Another is that some acrylic pieces may need some modification.
-### Week 4 
 
+### Week 4 
+Mariam: I worked on documentation and my final reaction
+Hope: I am working on making design adjustments and plan on reprinting some parts 
 
 ### Final Reflection
-Mariam: Doing a project for the first time where we have real customers is amazing. I never thought I could use my engineering skills to make something for someone else. When I first started coding for this project I had no clue how to start it or where to start from. I started researching how the D.C motors work and I did find some useful resources, but they were not very helpful. Later I found out that Graham and Malachi had already started coding for the D.C motors, so I got their code and had to figure out how I wanted it to work for me and that was the challenging part cause I didn't know how I wanted the motors to work. After figuring that out I had to change only a few parts of the code with Mr. Millers' help. Then I moved on to adding a button and an LCD. Coding was pretty challenging there were days when I was lost and didn't know what to do, but I always found my way back up with the help of Mr. Miller and Sky. Overall I had fun doing this my favorite part of this project was soldering because it just made me happy to see I am finally done and ready to wrap everything up. 
+Mariam: Doing a project for the first time where we have real customers is amazing. I never thought I could use my engineering skills to make something for someone else. When I first started coding for this project I had no clue how to start it or where to start from. I started researching how the D.C motors work and I did find some useful resources, but they were not very helpful. Later I found out that Graham and Malachi had already started coding for the D.C motors, so I got their code and had to figure out how I wanted it to work for me and that was the challenging part cause I didn't know how I wanted the motors to work. After figuring that out I had to change only a few parts of the code with Mr. Millers' help. Then I moved on to adding a button and an LCD. Coding was pretty challenging there were days when I was lost and didn't know what to do, but I always found my way back up with the help of Mr. Miller and Sky. Overall I had fun doing this my favorite part of this project was soldering because it just made me happy to see I am finally done and ready to wrap everything up. Overall I enjoyed doing this project. I am happy knowing that our project will be used for goods when I graduate. 
 
 
 

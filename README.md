@@ -141,7 +141,7 @@ During spring break nothing happened
 
 ### Week 2
 Mariam: I came back to school on Monday and left on Tuesday for the rest of the week due to Eid (celebration after Ramadan) 
-Hope: This week I just worked on CAD. I had a few problems with getting thing 
+Hope: This week I continued to work on CAD. The same problems continued to arise and 
 ### Week 3
 Mariam: Finally after I was  back I started working on soldering the motors and got it done that day :)
 

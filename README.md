@@ -99,7 +99,7 @@ Hope: This week I researched cables to buy for our project. I also finished up t
 ### Images
 ![CAD Base](https://github.com/hgeorge82/Marker-Spinner/blob/main/Images/Baser.png)
 ![Physical Base](https://github.com/hgeorge82/Marker-Spinner/blob/main/Images/Finalbase1.jpg)
-![Physical Base](![Physical Base](https://github.com/hgeorge82/Marker-Spinner/blob/main/Images/Finalbase1.jpg)
+![Wheel](https://github.com/hgeorge82/Marker-Spinner/blob/main/Images/Wheel1.jpg?scrlybrkr=53c7c5c4))
 
 
 ## Sources
@@ -196,5 +196,5 @@ Hope: I am working on making design adjustments and plan on reprinting some part
 ### Final Reflection
 Mariam: Doing a project for the first time where we have real customers is amazing. I never thought I could use my engineering skills to make something for someone else. When I first started coding for this project I had no clue how to start it or where to start from. I started researching how the D.C motors work and I did find some useful resources, but they were not very helpful. Later I found out that Graham and Malachi had already started coding for the D.C motors, so I got their code and had to figure out how I wanted it to work for me and that was the challenging part cause I didn't know how I wanted the motors to work. After figuring that out I had to change only a few parts of the code with Mr. Millers' help. Then I moved on to adding a button and an LCD. Coding was pretty challenging there were days when I was lost and didn't know what to do, but I always found my way back up with the help of Mr. Miller and Sky. Overall I had fun doing this my favorite part of this project was soldering because it just made me happy to see I am finally done and ready to wrap everything up. Overall I enjoyed doing this project. I am happy knowing that our project will be used for goods when I graduate.
 
-Hope: Doing this project I learned 
+Hope: Doing this project I learned a lot about time management.
 

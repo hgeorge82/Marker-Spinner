@@ -59,7 +59,7 @@ Hope: This week I began to work on a way to attach the markers to the wheel itse
 This source helped me know how to connect my button code with LCD so that it could work 
 
 [How to use an I2C LCD Display with Raspberry Pi Pico](https://www.tomshardware.com/how-to/lcd-display-raspberry-pi-pico)
-The wiring diagram was helpful when first I started to wire an LCD 
+The wiring diagram was helpful when I first started to wire an LCD 
 
 [Using an LCD with a Raspberry Pi Pico](https://www.penguintutor.com/programming/pico-lcd)
 Their code was helpful to start me off and the wiring diagram they had was super helpful because it had a button and I had no clue how to wire the button so that it's connected to a motor and an LCD

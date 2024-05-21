@@ -97,6 +97,9 @@ Mariam: I showed Mr. Manning the LCD and he was like add a countdown to it now. 
 Hope: This week I researched cables to buy for our project. I also finished up the box of our base and added the joints for it. I struggled a bit with adding the t-slots because the walls were not thick enough. Next week I plan to 3D-print test brackets for our axle finish up the base and start on the brackets for the markers
 
 ### Images
+![CAD Base](https://github.com/hgeorge82/Marker-Spinner/blob/main/Images/Baser.png)
+![Physical Base](https://github.com/hgeorge82/Marker-Spinner/blob/main/Images/Finalbase1.jpg)
+![Physical Base](![Physical Base](https://github.com/hgeorge82/Marker-Spinner/blob/main/Images/Finalbase1.jpg)
 
 
 ## Sources

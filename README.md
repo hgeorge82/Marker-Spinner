@@ -4,7 +4,24 @@ Marker is a project for our physics teacher Mr. Manning. Mr. Miller was giving u
 
 [Smart Goal planning for Q2](https://docs.google.com/document/d/1IB1CjCF75Uy60dikSJuv_7jvlOusDMBG6paIRjbJVEI/edit?usp=sharing)
 
+## Manual 
+To operate the Marker Spinner simple follow these steps
+1. Attach the markers to the caps in the wheel
+2. Plug the plugs 
+3. Flip on the switch the LCD will turn on
+4. Press the button to start spinning 
+5. Once it’s spinning the countdown will start for 30 seconds 
+6. When the countdown is done the marker spinner will stop spinning automatically 
+7. To do another cycle press the button again
+8. To turn off, flip the switch off
+9. If you wish you to unplug the plugs you may do so, but IT IS OK NOT TO as long as you flip the switch to turn it off
 
+
+## Budget 
+We had a budget of $100 to buy any necessary materials for our project. Since chicken feeder was our first project we spend about $60 to buy a solenoid valve which later on our project changed so we didn't use it. Later we brought a switch that was $10 and later we found out that it's not necessary. 
+
+
+# First few weeks of school
 ### Week 12 
 This week we decided to change our project. Our original project was an automatic chicken feeder, that would feed chickens automatically. Our new project is now a Marker Spinner for Mr. Manning(Physics Teacher). Considering that we just changed our project we haven't yet found a lot of resources or issues to be solved. What we have done this week is talk to Mr. Manning, create a design, and start on code. Next week we plan to meet with our mentor to get some ideas, start CAD, continue code, and do more research.
 
@@ -110,7 +127,7 @@ I used some of their code to code for the countdown
 # March
 
 ## Week 1
-Mariam: I was waiting to arrive, I didn't do anything else
+Mariam: I was waiting to the switch to arrive, so I didn't do anything else
 Hope: This week I worked on designing the marker cap and base of our project. I came up with a problem, the cap was too loose and I had to go back and increase the size of the indents on the cap to keep it from slipping. The base has been a whole mess considering the t-slot joints have been a disaster to work with.
 
 ## Week 2
@@ -187,11 +204,15 @@ Hope: This week I laser cut the pieces to our base. I began the assembly process
 Mariam: I still worked on the presentation and we presented it
 
 ### Week 3
-Both of us are now just working on the assembly and we have run into some problems again. Things are not fitting how they were in Onshape so that's an issue. Another is that some acrylic pieces may need some modification.
-
-### Week 4 
 Mariam: I worked on documentation and my final reaction
 Hope: I am working on making design adjustments and plan on reprinting some parts 
+
+### Week 4 
+Both of us are now just working on the assembly and we have run into some problems again. Things are not fitting how they were in Onshape so that's an issue. Another is that some acrylic pieces may need some modification. 
+
+## Gains
+Throught out this project we were fortunate to get hand on experience with a customer, we also learned Physics, Good time management was a big one because we were fully independent, so we had to manage out time well in order to get done with project done on time, and as always we got to learn and improve our Code/CAD skills
+
 
 ### Final Reflection
 Mariam: Doing a project for the first time where we have real customers is amazing. I never thought I could use my engineering skills to make something for someone else. When I first started coding for this project I had no clue how to start it or where to start from. I started researching how the D.C motors work and I did find some useful resources, but they were not very helpful. Later I found out that Graham and Malachi had already started coding for the D.C motors, so I got their code and had to figure out how I wanted it to work for me and that was the challenging part cause I didn't know how I wanted the motors to work. After figuring that out I had to change only a few parts of the code with Mr. Millers' help. Then I moved on to adding a button and an LCD. Coding was pretty challenging there were days when I was lost and didn't know what to do, but I always found my way back up with the help of Mr. Miller and Sky. Overall I had fun doing this my favorite part of this project was soldering because it just made me happy to see I am finally done and ready to wrap everything up. Overall I enjoyed doing this project. I am happy knowing that our project will be used for goods when I graduate.

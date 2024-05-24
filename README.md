@@ -5,7 +5,7 @@ Marker is a project for our physics teacher Mr. Manning. Mr. Miller was giving u
 [Smart Goal planning for Q2](https://docs.google.com/document/d/1IB1CjCF75Uy60dikSJuv_7jvlOusDMBG6paIRjbJVEI/edit?usp=sharing)
 
 ## Manual 
-To operate the Marker Spinner simple follow these steps
+To operate the Marker Spinner simply follow these steps
 1. Attach the markers to the caps in the wheel
 2. Plug the plugs 
 3. Flip on the switch the LCD will turn on
@@ -14,11 +14,11 @@ To operate the Marker Spinner simple follow these steps
 6. When the countdown is done the marker spinner will stop spinning automatically 
 7. To do another cycle press the button again
 8. To turn off, flip the switch off
-9. If you wish you to unplug the plugs you may do so, but IT IS OK NOT TO as long as you flip the switch to turn it off
+9. If you wish to unplug the plugs you may do so, but IT IS OK NOT TO as long as you flip the switch to turn it off
 
 
 ## Budget 
-We had a budget of $100 to buy any necessary materials for our project. Since chicken feeder was our first project we spend about $60 to buy a solenoid valve which later on our project changed so we didn't use it. Later we brought a switch that was $10 and later we found out that it's not necessary. 
+We had a budget of $100 to buy any necessary materials for our project. Since the chicken feeder was our first project we spent about $60 to buy a solenoid valve which later on our project changed so we didn't use it. Later we bought a switch that was $10 and later we found out that it was not necessary. 
 
 
 # First few weeks of school
@@ -26,7 +26,7 @@ We had a budget of $100 to buy any necessary materials for our project. Since ch
 This week we decided to change our project. Our original project was an automatic chicken feeder, that would feed chickens automatically. Our new project is now a Marker Spinner for Mr. Manning(Physics Teacher). Considering that we just changed our project we haven't yet found a lot of resources or issues to be solved. What we have done this week is talk to Mr. Manning, create a design, and start on code. Next week we plan to meet with our mentor to get some ideas, start CAD, continue code, and do more research.
 
 ### Week 13
-I worked on the code, while Hope worked on the prototype. We’re using 2 D.C motors and might even need to buy faster ones. Credits to Graham and Malachi for giving us their Github page to use their code; that is the only new source we found. We also found Dylan Hensley’s onshape about Mr. Manning’s marker spinner. With the code, I couldn’t get it to work in the beginning. We’re almost done with our prototype, and the two dc motors are working, understand the code, and figuring out how we want our design to look. Finish the prototype get Mr. Manning’s input about the motors and go on from there and have a meeting with Skye.
+I worked on the code, while Hope worked on the prototype. We’re using 2 D.C motors and might even need to buy faster ones. Credits to Graham and Malachi for giving us their Github page to use their code; that is the only new source we found. We also found Dylan Hensley’s onshape about Mr. Manning’s marker spinner. With the code, I couldn’t get it to work in the beginning. We’re almost done with our prototype, and the two DC motors are working, understanding the code, and figuring out how we want our design to look. Finish the prototype get Mr. Manning’s input about the motors and go on from there and have a meeting with Skye.
 
 ### Week 14 
 This week we finished up our prototype and met with our mentor Skye. We decided on two different ideas for the wheel of the marker spinner to spin. The first idea is to use an axle and have the wheel spin in the middle to balance the weight of the markers. The second idea is to have attachments to the DC motors and have them attached to the wheel. We discovered that the weight of the markers can impact the balance of the wheel so that's where our new ideas came from. Coming up with a solid design went okay, and getting our prototype to work was a bit difficult. Our plan for next week is to start CAD design, continue working on code, and maybe update our prototype.
@@ -58,14 +58,14 @@ This source helped me wire up my motors and the code helped me understand how I 
 This source kind of helped me know how to get started and I used their code to see if it was going to work, but it didn't. Later I found out that Graham and Malachi had already done their code for the D.C motor, so I asked if I could use their code and they said yes! I used their code and changed it a little bit and it worked!!!! YAYAYAYA Best day!
 
 ## Week 2
-Mariam: Now that I was done with the D.C. motors I worked on adding a button. wiring a button wasn't hard, but coding it was. Just because I didn't know where to add the button code and how to connect it so that it worked with the D.C motor. and it took me a day or 2 to code-wire it and connect it to the Pico.
+Mariam: Now that I was done with the D.C. motors I worked on adding a button. wiring a button wasn't hard, but coding it was. Just because I didn't know where to add the button code and how to connect it so that it worked with the D.C motor, and it took me a day or 2 to code-wire it and connect it to the Pico.
 
 Hope: This week I did more research on what would work to keep the axle in place. The rubber bushings were our first idea but we couldn’t find ones that fit what we were looking for. Our second idea was to use bearings instead, allowing the axle to move more freely and efficiently.
 
 
 ## Sources:
 Mr. Miller
-Thanks to him he helped me code it by adding an if statement and understand how to code works and where to put
+Thanks to him he helped me code it by adding an if statement and understand how the code works and where to put
 
 ## Week 3 
 Mariam: After I was done getting the button worked with the motors, I thought I was done, but I wasn't :/ Mr. Manning wanted an LCD now, I was like okay. I started doing research and I found some useful but not useful sources. Then I found out that Ellen was doing an LCD, so I went to her Github page and I noticed that her LCD code was different than what I was looking for. So I moved on and did some more research. I did research this whole week
@@ -127,7 +127,7 @@ I used some of their code to code for the countdown
 # March
 
 ## Week 1
-Mariam: I was waiting to the switch to arrive, so I didn't do anything else
+Mariam: I was waiting for the switch to arrive, so I didn't do anything else
 Hope: This week I worked on designing the marker cap and base of our project. I came up with a problem, the cap was too loose and I had to go back and increase the size of the indents on the cap to keep it from slipping. The base has been a whole mess considering the t-slot joints have been a disaster to work with.
 
 ## Week 2
@@ -211,11 +211,11 @@ Hope: I am working on making design adjustments and plan on reprinting some part
 Both of us are now just working on the assembly and we have run into some problems again. Things are not fitting how they were in Onshape so that's an issue. Another is that some acrylic pieces may need some modification. 
 
 ## Gains
-Throught out this project we were fortunate to get hand on experience with a customer, we also learned Physics, Good time management was a big one because we were fully independent, so we had to manage out time well in order to get done with project done on time, and as always we got to learn and improve our Code/CAD skills
+Throughout this project, we were fortunate to get hands-on experience with a customer, and we also learned Physics, Good time management was a big one because we were fully independent, so we had to manage our time well in order to get our project done on time, and as always we got to learn and improve our Code/CAD skills
 
 
 ### Final Reflection
-Mariam: Doing a project for the first time where we have real customers is amazing. I never thought I could use my engineering skills to make something for someone else. When I first started coding for this project I had no clue how to start it or where to start from. I started researching how the D.C motors work and I did find some useful resources, but they were not very helpful. Later I found out that Graham and Malachi had already started coding for the D.C motors, so I got their code and had to figure out how I wanted it to work for me and that was the challenging part cause I didn't know how I wanted the motors to work. After figuring that out I had to change only a few parts of the code with Mr. Millers' help. Then I moved on to adding a button and an LCD. Coding was pretty challenging there were days when I was lost and didn't know what to do, but I always found my way back up with the help of Mr. Miller and Sky. Overall I had fun doing this my favorite part of this project was soldering because it just made me happy to see I am finally done and ready to wrap everything up. Overall I enjoyed doing this project. I am happy knowing that our project will be used for goods when I graduate.
+Mariam: Doing a project for the first time where we have real customers is amazing. I never thought I could use my engineering skills to make something for someone else. When I first started coding for this project I had no clue how to start it or where to start from. I started researching how the D.C motors work and I did find some useful resources, but they were not very helpful. Later I found out that Graham and Malachi had already started coding for the D.C motors, so I got their code and had to figure out how I wanted it to work for me and that was the challenging part cause I didn't know how I wanted the motors to work. After figuring that out I had to change only a few parts of the code with Mr. Millers' help. Then I moved on to adding a button and an LCD. Coding was pretty challenging there were days when I was lost and didn't know what to do, but I always found my way back up with the help of Mr. Miller and Sky. Overall I had fun doing this my favorite part of this project was soldering because it just made me happy to see I am finally done and ready to wrap everything up. Overall I enjoyed doing this project. I am happy knowing that our project will be used for good when I graduate.
 
-Hope: Doing this project I learned a lot about time management.
+Hope: This project was a roller coaster for me. Working with a customer was a pretty ok experience. I learned a lot about keeping to a strict schedule...but I did not entirely stick to the schedule sooo yeah. It helped that we had help from our UVA mentor Skye. Anyway, when I started this project I had no idea how I was going to create a design for this so-called "automated marker spinner" I was doing some INTENSE research, and then it hit me--what about a Ferris wheel, but for markers? So began the journey of our marker spinner. At first, things were moving along pretty well in CAD but once everything was cut and printed out that's when the real problems began. Things were not fitting properly and measurements were off. When doing CAD make sure your measurements are proper and don't make the same mistakes as me. The major thing I learned about when doing this project was the importance of proper measurements and sticking to the schedule. Overall this project was a huge learning curve. I realized that designing requires all the little details. 
 

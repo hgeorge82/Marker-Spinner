@@ -21,6 +21,17 @@ To operate the Marker Spinner simply follow these steps
 We had a budget of $100 to buy any necessary materials for our project. Since the chicken feeder was our first project we spent about $60 to buy a solenoid valve which later on our project changed so we didn't use it. Later we bought a switch that was $10 and later we found out that it was not necessary. 
 
 
+##  Engineering Analysis 
+- Schedule 
+- Customer Satisfaction
+- Cycle time
+- Improvements 
+
+We created a schedule to see what work is completed and what needs to be accomplished by making deadlines and adding reminders to our calendar to remind us what needs to be done and when is the deadline
+Customer Satisfaction: After planning on how our design will look like we talked to Mr. Manning about all of these ideas to which one he likes. His opinions are important to us because he is our customer and the goal of this whole project is that our customer is happy 
+Cycle time and improvement. Because we need to know how far away from the deadline we were and what parts of the project need improvement.  This was like a weekly check-in for us to know how fast we were moving.
+
+
 # First few weeks of school
 ### Week 12 
 This week we decided to change our project. Our original project was an automatic chicken feeder, that would feed chickens automatically. Our new project is now a Marker Spinner for Mr. Manning(Physics Teacher). Considering that we just changed our project we haven't yet found a lot of resources or issues to be solved. What we have done this week is talk to Mr. Manning, create a design, and start on code. Next week we plan to meet with our mentor to get some ideas, start CAD, continue code, and do more research.
